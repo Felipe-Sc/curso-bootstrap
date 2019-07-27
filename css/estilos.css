@@ -2,6 +2,10 @@
   width: 80px;
 }
 
+.nav-item:last-child .nav-link {
+  color: #97c93e !important;
+}
+
 .footer {
   color:white;
   background: linear-gradient(90deg, #1c3643 0, #273b47 25%, #1e5372);
