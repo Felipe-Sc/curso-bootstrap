@@ -1,0 +1,17 @@
+#header img {
+  width: 80px;
+}
+
+.footer {
+  color:white;
+  background: linear-gradient(90deg, #1c3643 0, #273b47 25%, #1e5372);
+}
+
+.footer a {
+  text-transform: none;
+  color: white;
+}
+
+.footer a:hover {
+  color: rgba(255,255,255, .8);
+}
