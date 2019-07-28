@@ -31,6 +31,15 @@
   color: #97c93e !important;
 }
 
+.btn-platzi {
+  background-color: #97c93e !important;
+  color: white !important;
+}
+
+.btn-platzi:hover {
+  background-color: #7fa53b !important;
+}
+
 .footer {
   color:white;
   background: linear-gradient(90deg, #1c3643 0, #273b47 25%, #1e5372);
