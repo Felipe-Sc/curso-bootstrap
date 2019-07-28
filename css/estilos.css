@@ -40,6 +40,15 @@
   background-color: #7fa53b !important;
 }
 
+#place-time {
+  background-color: #343a40!important;
+  color: white;
+}
+
+#place-time img {
+  max-width: 100%;
+}
+
 .footer {
   color:white;
   background: linear-gradient(90deg, #1c3643 0, #273b47 25%, #1e5372);
